@@ -9,7 +9,7 @@ The `LeetCode Solutions` folder contains two subfolders, each corresponding to a
 
 
 ## Problem Descriptions
-### Problem #4 - Median of Two Sorted Arrays
+### Problem #4 - Median of Two Sorted Arrays - in Java
 The problem statement and description for Problem #4 can be found [https://leetcode.com/problems/median-of-two-sorted-arrays/] or below.
 
 Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return **the median** of the two sorted arrays.
@@ -39,7 +39,7 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 * `1 <= m + n <= 2000`
 * `-10^6 <= nums1[i], nums2[i] <= 10^6`
 
-### Problem #42 - Trapping Rain Water
+### Problem #42 - Trapping Rain Water - in C++
 The problem statement and description for Problem #42 can be found [https://leetcode.com/problems/trapping-rain-water/submissions/917068290/] or below.
 
 Given `n` non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
