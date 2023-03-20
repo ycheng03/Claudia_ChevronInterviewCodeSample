@@ -1,13 +1,10 @@
-John Smith 1000.00
-Jane Doe 5000.00
-Bob Johnson 250.00
-Samantha Jones 1250.00
-Chris Brown 800.00
-Emily Davis 3000.00
-Tom Wilson 750.00
-Lucy Lee 10000.00
-Mike Johnson 2000.00
-Sarah Green 1500.00
-Jake Roberts 500.00
-Melissa Perez 4500.00
-David Kim 1200.00
+John Smith,123 Main St,1,1000,0.05
+Jane Doe,456 Oak Ave,2,2000,0.03
+Bob Johnson,789 Pine Rd,3,500,0.02
+Samantha Brown,101 Elm St,4,1500,0.04
+Michael Jackson,777 Neverland Ln,5,3000,0.05
+Sarah Thompson,555 Maple Dr,6,2500,0.03
+Kevin Lee,888 Broadway,7,200,0.01
+Amanda Johnson,111 Walnut St,8,800,0.02
+David Kim,222 Cherry Ln,9,4000,0.06
+Emily Chen,333 Cedar Ave,10,1200,0.04
